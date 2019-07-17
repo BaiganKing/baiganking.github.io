@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog Post- First Week At Lambda School
-subtitle: Excerpt from my <Medium>(https://medium.com/@archieandrew4)
+subtitle: Excerpt from my [Medium](https://medium.com/@archieandrew4)
 image: /img/lambda_logo.png
 ---
 
@@ -18,5 +18,3 @@ Lamba School is remote, so location isn’t an issue and an extremely flexible p
 The first week of Lambda so far has been nothing but motivating thus far. The lectures feel interactive and somewhat replicate a traditional classroom setting where you can have your questions answered and collaborate with other students. Assignments are neither too easy or challenging to encourage ‘Google-Fu’ skills which will be extremely useful moving forward, and if you need help, there are Team Leads which are always there to assist if you are stuck on a topic.
 
 My experience with Lambda School for the first week has been inspiring, and I look forward to the rest of the program moving forward.
-http://github.com - automatic!
-[GitHub](http://github.com)
