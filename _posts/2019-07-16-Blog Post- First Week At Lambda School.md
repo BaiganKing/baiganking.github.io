@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Post: My First Week At Lambda School
+title: Blog Post: First Week At Lambda School
 image: /img/lambda_logo.png
 ---
 
