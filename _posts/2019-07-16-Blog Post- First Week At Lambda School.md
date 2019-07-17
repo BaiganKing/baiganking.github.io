@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Blog Post- First Week At Lambda School
-subtitle: Excerpt from my [Medium](https://medium.com/@archieandrew4)
+subtitle: Excerpt from my Medium
 image: /img/lambda_logo.png
 ---
 
 ## My First Week At Lambda School.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*4e1qoCuPsuH5Y1LLdEu00g.png)
+
+_Excerpt from my [Medium](https://medium.com/@archieandrew4)_
 
 Data science has always been interesting to me way before I even knew what it was. Finding the most effective strategy to a game or the most efficient route on a trip; these are all problems that can be solved with data science.
 
