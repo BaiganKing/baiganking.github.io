@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog Post- First Week At Lambda School
-subtitle: Excerpt from my [Medium](https://medium.com/@archieandrew4)
+subtitle: Excerpt from my <Medium>(https://medium.com/@archieandrew4)
 image: /img/lambda_logo.png
 ---
 
